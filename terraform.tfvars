@@ -5,10 +5,6 @@ project_id          = "mar-roidtc400-instructor" # Enter your project ID here.
 external_image_name = "drehnstrom/events-external-deloitte:v1.0"
 internal_image_name = "drehnstrom/events-internal-deloitte:v1.0"
 
-# The image used by the deployments will be a URL created from 
-# combining the above vars. For Example: 
-# container_registry/project_id/external_image_name
-
 gcp_region_1 = "us-central1"
 gcp_zone_1   = "us-central1-a"
 
